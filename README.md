@@ -21,3 +21,6 @@ Or install it yourself as:
 Need some good Stuff here...
 
 ## Contributing
+
+### Rich Davis
+
